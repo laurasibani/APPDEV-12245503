@@ -95,3 +95,8 @@ Here are some helpful resources for learning more about Python:
 
 
 *Article content is generated using ChatGPT.*
+
+## Photo
+
+![Photo-unsplash](dist/photo-unsplash.jpg)
+*Photo available from [Unsplash](https://unsplash.com/photos/turned-on-gray-laptop-computer-cOkpTiJMGzA)*
